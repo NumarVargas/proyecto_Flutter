@@ -7,7 +7,7 @@ class MyHomePage extends StatelessWidget {
 
   final List<UserModel> users = [
     UserModel(name: 'Numar', age: 20),
-    UserModel(name: 'Marcos', age: 36),
+    UserModel(name: 'Marcos', age: 15),
     UserModel(name: 'Martin', age: 35),
   ];
 
